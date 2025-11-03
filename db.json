@@ -1,0 +1,7 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hola Mundo" },
+    { "id": 2, "title": "Mi segundo post" }
+  ],
+  "users": [{ "id": 1, "name": "Ana" }]
+}
